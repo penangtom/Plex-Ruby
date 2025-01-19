@@ -11,6 +11,7 @@ Gem::Specification.new do |s|
   s.homepage    = "https://github.com/ekosz/Plex-Ruby"
   s.summary     = %q{Plex Media Server APIs in easy ruby code}
   s.description = %q{Extracts the Plex Media Server API into easy to write ruby code}
+  s.required_ruby_version = ">= 3.3.0"
 
   s.rubyforge_project = "plex-ruby"
 
